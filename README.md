@@ -16,7 +16,7 @@ The work can be cited as follows:
  This code was tested with Arduino 1.8.19.
  
  ## STLs
- Contains all 3D models required to build the pump assembly, as well as some additional components that aid with the proper functioning of the pump. The pump assembly is an iterated version of a [pre-existing pump assembly]{https://www.thingiverse.com/thing:1134817} iterated under the Creative Commons Attribution-NonCommercial 4.0 International license. In this design, at least three channel assemblies can be connected in series and powered using a single stepper motor.
+ Contains all 3D models required to build the pump assembly, as well as some additional components that aid with the proper functioning of the pump. The pump assembly is an iterated version of a [pre-existing pump assembly](https://www.thingiverse.com/thing:1134817) iterated under the Creative Commons Attribution-NonCommercial 4.0 International license. In this design, at least three channel assemblies can be connected in series and powered using a single stepper motor.
  
 ### Pump STLs
  - Bearing_Mount_Bottom.stl: Used to keep the bearings in place and allow them to be rotated using the stepper motor.
@@ -32,3 +32,5 @@ The work can be cited as follows:
  - Case_lid.STL: Lid for Arduino+Breadboard_Case.STL.
  - Hose_Anchor.STL: Example of an anchor for the hose inlet as described in the paper.
  
+## Components.pdf
+List of components used to build the peristaltic pump.
