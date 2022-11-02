@@ -2,13 +2,11 @@
 Full documentation to build a peristaltic pump used to clean SLA/DLP printed soft fluidic actuators.
 
 # Publication
-A paper presenting this pump and the associated cleaning procedure has been submitted to the International Conference on Soft Robotics (RoboSoft), 2023.
+A paper presenting this pump and the associated cleaning procedure has been submitted to the International Conference on Soft Robotics (RoboSoft), 2023. This paper can be found in the folder paper.
 
 The work can be cited as follows:
 - **Proper. B, Caasenbrood, B., & I. Kuling (2023). Easy Cleaning of 3D SLA/DLP Printed Soft Fluidic Actuators with Complex Internal Geometry. 6th IEEE International Conference on Soft Robotics, RoboSoft 2023. (submitted).**
 
- ![paper](paper/[B.W.B. Proper et al., 2023] Easy Cleaning of 3D SLADLP Printed Soft Fluidic Actuators with Complex Internal Geometry.pdf)
- 
  # Contents
  
  ## Code
