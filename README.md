@@ -7,19 +7,20 @@ A paper presenting this pump and the associated cleaning procedure has been subm
 The work can be cited as follows:
 - **Proper. B, Caasenbrood, B., & I. Kuling (2023). Easy Cleaning of 3D SLA/DLP Printed Soft Fluidic Actuators with Complex Internal Geometry. 6th IEEE International Conference on Soft Robotics, RoboSoft 2023. (submitted).**
 
+ ![paper](paper/[B.W.B. Proper et al., 2023] Easy Cleaning of 3D SLADLP Printed Soft Fluidic Actuators with Complex Internal Geometry.pdf)
+
  # Contents
  
  ## Code
  Contains the arduino code required to control the pump, which includes the main code file and the necessary libraries. 
- Note, this code has been written to work with the connection diagram PumpCircuit.svg. Found below:
+ Note, this code has been written to work with the connection diagram PumpCircuit.svg found below:
  ![PumpCircuit](PumpCircuit.svg)
- 
  
  Any changes to the connections will require changing the code, and vice versa.
  This code was tested with Arduino 1.8.19.
  
  ## STLs
- Contains all 3D models required to build the pump assembly, as well as some additional components that aid with the proper functioning of the pump. The pump assembly is an iterated version of a [pre-existing pump assembly](https://www.thingiverse.com/thing:1134817) iterated under the Creative Commons Attribution-NonCommercial 4.0 International license. In this design, at least three channel assemblies can be connected in series and powered using a single stepper motor.
+Contains all 3D models required to build the pump assembly, as well as some additional components that aid with the proper functioning of the pump. The pump assembly is an iterated version of a [pre-existing pump assembly](https://www.thingiverse.com/thing:1134817) iterated under the Creative Commons Attribution-NonCommercial 4.0 International license. In the updated design, at least three channel assemblies can be connected in series and powered using a single stepper motor.
  
 ### Pump STLs
  - Bearing_Mount_Bottom.stl: Used to keep the bearings in place and allow them to be rotated using the stepper motor.
