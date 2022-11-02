@@ -11,7 +11,10 @@ The work can be cited as follows:
  
  ## Code
  Contains the arduino code required to control the pump, which includes the main code file and the necessary libraries. 
- Note, this code has been written to work with the connection diagram PumpCircuit.svg. 
+ Note, this code has been written to work with the connection diagram PumpCircuit.svg. Found below:
+ ![PumpCircuit](PumpCircuit.svg)
+ 
+ 
  Any changes to the connections will require changing the code, and vice versa.
  This code was tested with Arduino 1.8.19.
  
